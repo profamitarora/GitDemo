@@ -15,6 +15,7 @@ public class SeleniumTest {
 	public void Demo2()
 	{
 		System.out.println("Demo2 from Selenium class");
+		System.out.println("Changes added by GiDemo in develop branch");
 	}
 
 }

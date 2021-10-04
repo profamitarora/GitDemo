@@ -8,6 +8,7 @@ public class AppiumTest {
 	public void Demo3()
 	{
 		System.out.println("Demo3 from Appium class");
+		System.out.println("Changes added by GiDemo in develop branch");
 	}
 	
 	@Test

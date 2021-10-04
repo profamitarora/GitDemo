@@ -8,13 +8,14 @@ public class RestAPITest {
 	public void Demo5()
 	{
 		System.out.println("Demo5 from RestAPI class");
+		System.out.println("Changes added by GiDemo in develop branch");
 	}
 	
 	@Test
 	public void Demo6()
 	{
 		System.out.println("Demo6 from RestAPI class");
-                System.out.println("Changes added by GitStuff - 4")
+        System.out.println("Changes added by GitStuff - 4");
 	}
 
 }
