@@ -14,6 +14,7 @@ public class RestAPITest {
 	public void Demo6()
 	{
 		System.out.println("Demo6 from RestAPI class");
+                System.out.println("Changes added by GitStuff - 4")
 	}
 
 }
