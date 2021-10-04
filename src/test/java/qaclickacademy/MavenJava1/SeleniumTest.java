@@ -18,4 +18,11 @@ public class SeleniumTest {
 		System.out.println("Changes added by GiDemo in develop branch");
 	}
 
+        @Test
+	public void Demo3()
+	{
+		System.out.println("Demo3 from Selenium class");
+		System.out.println("Changes added by GiStuff in develop branch");
+	}
+
 }

@@ -17,4 +17,11 @@ public class AppiumTest {
 		System.out.println("Demo4 from Appium class");
 	}
 
+        @Test
+	public void Demo3()
+	{
+		System.out.println("Demo3 from AppiumTest class");
+		System.out.println("Changes added by GiStuff in develop branch");
+	}
+
 }
