@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: qaclickacademy.MavenJava1.AppiumTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.25 s - in qaclickacademy.MavenJava1.AppiumTest

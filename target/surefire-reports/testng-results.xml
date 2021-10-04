@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="157" started-at="2021-09-26T16:43:21Z" finished-at="2021-09-26T16:43:22Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="157" started-at="2021-09-26T16:43:21Z" finished-at="2021-09-26T16:43:22Z">
+      <class name="qaclickacademy.MavenJava1.RestAPITest">
+        <test-method status="PASS" signature="Demo6()[pri:0, instance:qaclickacademy.MavenJava1.RestAPITest@17c68925]" name="Demo6" duration-ms="0" started-at="2021-09-26T22:13:22Z" finished-at="2021-09-26T22:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo6 -->
+        <test-method status="PASS" signature="Demo5()[pri:0, instance:qaclickacademy.MavenJava1.RestAPITest@17c68925]" name="Demo5" duration-ms="0" started-at="2021-09-26T22:13:22Z" finished-at="2021-09-26T22:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo5 -->
+      </class> <!-- qaclickacademy.MavenJava1.RestAPITest -->
+      <class name="qaclickacademy.MavenJava1.SeleniumTest">
+        <test-method status="PASS" signature="Demo1()[pri:0, instance:qaclickacademy.MavenJava1.SeleniumTest@3ac3fd8b]" name="Demo1" duration-ms="0" started-at="2021-09-26T22:13:22Z" finished-at="2021-09-26T22:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+        <test-method status="PASS" signature="Demo2()[pri:0, instance:qaclickacademy.MavenJava1.SeleniumTest@3ac3fd8b]" name="Demo2" duration-ms="0" started-at="2021-09-26T22:13:22Z" finished-at="2021-09-26T22:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- qaclickacademy.MavenJava1.SeleniumTest -->
+      <class name="qaclickacademy.MavenJava1.AppiumTest">
+        <test-method status="PASS" signature="Demo3()[pri:0, instance:qaclickacademy.MavenJava1.AppiumTest@19dfb72a]" name="Demo3" duration-ms="62" started-at="2021-09-26T22:13:22Z" finished-at="2021-09-26T22:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo3 -->
+        <test-method status="PASS" signature="Demo4()[pri:0, instance:qaclickacademy.MavenJava1.AppiumTest@19dfb72a]" name="Demo4" duration-ms="0" started-at="2021-09-26T22:13:22Z" finished-at="2021-09-26T22:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo4 -->
+      </class> <!-- qaclickacademy.MavenJava1.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
