@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public void Demo1()
 	{
 		System.out.println("Demo1 from Selenium class");
+		System.out.println("Changes added by GitDemo - 2");
 	}
 	
 	@Test
